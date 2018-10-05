@@ -23,16 +23,13 @@ weight = 5
   course = "B.Tech in Electronics & Communication Engineering"
   institution = "Delhi Technological University (formerly DCE)"
   year = 2016
- 
+
 +++
 
 # Biography
 
-I joined [Facebook](https://research.fb.com/people/raj-aman/) in August 2016, working on computer vision and machine learning problems in Connectivity Lab with [Ramesh Raskar](http://web.media.mit.edu/~raskar/), now I work in Applied Machine Learning team.
+I joined [Facebook Research](https://research.fb.com/people/raj-aman/) in August 2016, working on computer vision and machine learning problems in Connectivity Lab with [Ramesh Raskar](http://web.media.mit.edu/~raskar/), now I work in Applied Machine Learning team.
 
 I graduated with a B.Tech degree from Department of Electronics and Communication Engineering, [Delhi Technological University](http://www.dtu.ac.in), India in 2016.
 
 I interned in [AirLab](https://www.ri.cmu.edu/publications/multi-scale-convolutional-architecture-for-semantic-segmentation) at Robotics Institute, Carnegie Mellon University in summer 2015.
- 
-
-
