@@ -14,10 +14,10 @@ subtitle = ""
 weight = 20
 
 +++
-
+- **April 2018:** One paper selected in CVPR-2018, another in International Journal of Geo-Information(ISPRS), March 2018 issue.
 - **August 2017:** Robocodes in news: [state of maps](https://2017.stateofthemap.us/program/generative-street-addresses.html), [facebook research](https://research.fb.com/advancing-computer-vision-technologies-at-cvpr-2017/), [geospatialworld](https://www.geospatialworld.net/blogs/mapping-unmapped-facebook-mit-project/)
 - **June 2017:** Our "Robocodes" paper at CVPR 2017 ([paper](https://research.fb.com/wp-content/uploads/2017/07/cvpr_ev_final_sent.pdf?)) ([code](https://github.com/facebookresearch/street-addresses))
-- **August 2016:** I have joined Facebook as [Research Engineer in AI](https://research.fb.com/people/raj-aman/).
+- **August 2016:** I have joined Facebook as [Software Engineer in AI](https://research.fb.com/people/raj-aman/).
 - **March 2016**: Presented my paper in ICCTICT 2016 on "FPGA Accelerated Abandoned Object Detection” ([slides](files/slides/icctict_2016.pdf))
 - **February 2016:** One paper selected in ICCTICT, IEEE, 2016
 - **Jaunary 2016:** Started working with DataCulture(now [Supply.ai](http://supply.ai/)) as Data Scientist brining predictive intelligence to supply chain.
@@ -26,7 +26,3 @@ weight = 20
 - **January 2015:** Awesome winter school, we got [Best Project Award](files/awards/CMU WS_2-Best Project Award.pdf)
 - **November 2014:** Selected for CMU IPTSE Winter School 2014
 - **October 2014:** One paper selected in ICVGIP-2014, another in ACCV-2014
-
-
-
-
