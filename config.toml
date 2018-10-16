@@ -39,7 +39,7 @@ defaultContentLanguageInSubdir = false
 
   # Your details.
   name = "Aman Raj"
-  role = "Graduate Student UCSD"
+  role = "Graduate Student at UCSD"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
@@ -164,7 +164,7 @@ defaultContentLanguageInSubdir = false
   [[params.social]]
     icon = "envelope"
     icon_pack = "fa"
-    link = "mailto:amanrajdce@gmail.com"
+    link = "mailto:amraj@ucsd.edu"
 
   [[params.social]]
     icon = "linkedin"
